@@ -1,13 +1,13 @@
 # Business_Insights_360
-Overview
+# Overview
 
 This Power BI dashboard provides critical insights into Atliq Hardware’s financial performance, market trends, supply chain efficiency, executive overview, and operational effectiveness. By visualizing key metrics, it helps the company make informed decisions, streamline operations, and boost profitability. This project aims to strengthen Atliq Hardware’s market position and secure long-term success.
 
-Company Overview
+# Company Overview
 
 Atliq Hardware is a fast-growing global company specializing in computers and accessories. They offer desktops, laptops, servers, and peripherals such as keyboards, mice, monitors, and storage devices. Through a strong distribution network and industry partnerships, Atliq ensures its products reach customers worldwide, building a trustworthy reputation in the tech market.
 
-Problem Statement
+# Problem Statement
 
 Atliq Hardware is a fast-growing consumer electronics company with a presence in multiple countries. However, despite their expansion, Atliq relies on outdated data analysis methods, primarily using Excel files.
 
@@ -21,11 +21,11 @@ Recently, Atliq suffered a major loss in their Latin American market due to thes
 
 To prevent further losses, Atliq must adopt modern data analysis tools to enable smarter decision-making and reach their full potential.
 
-Company Goal
+# Company Goal
 
 The goal is to transition Atliq Hardware from Excel files to a modern data analytics system. This shift will generate valuable insights, improve decision-making, and prevent future losses, particularly in key markets like Latin America. Ultimately, the aim is to enhance efficiency, enable continuous growth, and strengthen Atliq's position in consumer electronics.
 
-Key Learnings
+# Key Learnings
 
 Created Calculated Columns and DAX Measures: Enhanced data insights through custom calculations.
 
@@ -45,7 +45,7 @@ Stakeholder Management: Enhanced skills in stakeholder communication and data st
 
 Set up Auto-Refresh for Data: Enabled real-time updates through the gateway.
 
-Tools Used
+# Tools Used
 
 Power BI Desktop: Crafted interactive dashboards.
 
@@ -63,7 +63,8 @@ Excel: Provided by stakeholders for reference User Acceptance Testing (UAT) repo
 
 ChatGPT: Support in understanding complex DAX measures.
 
-Important Business Terms Learned
+
+# Important Business Terms Learned
 
 Net Sales: Sales after returns and discounts.
 
