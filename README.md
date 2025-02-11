@@ -1,13 +1,13 @@
 # Business_Insights_360
-# Overview
+## Overview
 
 This Power BI dashboard provides critical insights into Atliq Hardware’s financial performance, market trends, supply chain efficiency, executive overview, and operational effectiveness. By visualizing key metrics, it helps the company make informed decisions, streamline operations, and boost profitability. This project aims to strengthen Atliq Hardware’s market position and secure long-term success.
 
-# Company Overview
+## Company Overview
 
 Atliq Hardware is a fast-growing global company specializing in computers and accessories. They offer desktops, laptops, servers, and peripherals such as keyboards, mice, monitors, and storage devices. Through a strong distribution network and industry partnerships, Atliq ensures its products reach customers worldwide, building a trustworthy reputation in the tech market.
 
-# Problem Statement
+## Problem Statement
 
 Atliq Hardware is a fast-growing consumer electronics company with a presence in multiple countries. However, despite their expansion, Atliq relies on outdated data analysis methods, primarily using Excel files.
 
@@ -21,93 +21,93 @@ Recently, Atliq suffered a major loss in their Latin American market due to thes
 
 To prevent further losses, Atliq must adopt modern data analysis tools to enable smarter decision-making and reach their full potential.
 
-# Company Goal
+## Company Goal
 
 The goal is to transition Atliq Hardware from Excel files to a modern data analytics system. This shift will generate valuable insights, improve decision-making, and prevent future losses, particularly in key markets like Latin America. Ultimately, the aim is to enhance efficiency, enable continuous growth, and strengthen Atliq's position in consumer electronics.
 
-# Key Learnings
+## Key Learnings
 
-Created Calculated Columns and DAX Measures: Enhanced data insights through custom calculations.
+1.Created Calculated Columns and DAX Measures: Enhanced data insights through custom calculations.
 
-Connected Data from MySQL and Excel: Provided a comprehensive view by combining multiple data sources.
+2.Connected Data from MySQL and Excel: Provided a comprehensive view by combining multiple data sources.
 
-Utilized Bookmarks: Easily switched between visuals for better storytelling.
+3.Utilized Bookmarks: Easily switched between visuals for better storytelling.
 
-Implemented Page Navigation with Buttons: Improved user experience by adding seamless navigation.
+4.Implemented Page Navigation with Buttons: Improved user experience by adding seamless navigation.
 
-Used Tooltips: Saved space and provided context within visuals.
+5.Used Tooltips: Saved space and provided context within visuals.
 
-Enhanced Visualizations through Conditional Formatting: Made data stand out using customized colors.
+6.Enhanced Visualizations through Conditional Formatting: Made data stand out using customized colors.
 
-Designed Dynamic Titles: Titles changed automatically based on applied filters for clarity.
+7.Designed Dynamic Titles: Titles changed automatically based on applied filters for clarity.
 
-Stakeholder Management: Enhanced skills in stakeholder communication and data storytelling.
+8.Stakeholder Management: Enhanced skills in stakeholder communication and data storytelling.
 
-Set up Auto-Refresh for Data: Enabled real-time updates through the gateway.
+9.Set up Auto-Refresh for Data: Enabled real-time updates through the gateway.
 
-# Tools Used
+## Tools Used
 
-Power BI Desktop: Crafted interactive dashboards.
+1.Power BI Desktop: Crafted interactive dashboards.
 
-Power BI Service: Published and shared reports with stakeholders.
+2.Power BI Service: Published and shared reports with stakeholders.
 
-Power Query: Transformed and cleaned data for accurate analysis.
+3.Power Query: Transformed and cleaned data for accurate analysis.
 
-DAX Language: Built complex calculations to enhance data insights.
+4.DAX Language: Built complex calculations to enhance data insights.
 
-DAX Studio: Optimized performance for efficient reporting.
+5.DAX Studio: Optimized performance for efficient reporting.
 
-Project Charter: Defined project goals and kept everything on track.
+6.Project Charter: Defined project goals and kept everything on track.
 
-Excel: Provided by stakeholders for reference User Acceptance Testing (UAT) report creation.
+7.Excel: Provided by stakeholders for reference User Acceptance Testing (UAT) report creation.
 
-ChatGPT: Support in understanding complex DAX measures.
+8.ChatGPT: Support in understanding complex DAX measures.
 
 
-# Important Business Terms Learned
+## Important Business Terms Learned
 
-Net Sales: Sales after returns and discounts.
+1.Net Sales: Sales after returns and discounts.
 
-Gross Price: Price before discounts.
+2.Gross Price: Price before discounts.
 
-Pre-Invoice Deduction: Discounts before the invoice is made.
+3.Pre-Invoice Deduction: Discounts before the invoice is made.
 
-Post-Invoice Deduction: Discounts after the invoice is made.
+4.Post-Invoice Deduction: Discounts after the invoice is made.
 
-Net Invoice Sales: Sales after all deductions on the invoice.
+5.Net Invoice Sales: Sales after all deductions on the invoice.
 
-Cost of Goods Sold (COGS): Cost to make the product.
+6.Cost of Goods Sold (COGS): Cost to make the product.
 
-Gross Margin: Sales minus the cost of goods sold.
+7.Gross Margin: Sales minus the cost of goods sold.
 
-Gross Margin %: Percentage of profit from sales.
+8.Gross Margin %: Percentage of profit from sales.
 
-Net Profit: Profit after all costs, expenses, and taxes.
+9.Net Profit: Profit after all costs, expenses, and taxes.
 
-Net Profit %: Profit percentage after all expenses.
+10.Net Profit %: Profit percentage after all expenses.
 
-Market Share %: Company’s sales compared to the whole market.
+11.Market Share %: Company’s sales compared to the whole market.
 
-Forecast Accuracy: How close sales predictions are to actual sales.
+12.Forecast Accuracy: How close sales predictions are to actual sales.
 
-Net Error: Difference between actual and predicted results.
+13.Net Error: Difference between actual and predicted results.
 
-Absolute Error: The exact difference between actual and predicted results.
+14.Absolute Error: The exact difference between actual and predicted results.
 
-Year-to-Date (YTD): Performance from the start of the year to now.
+15.Year-to-Date (YTD): Performance from the start of the year to now.
 
-Year-to-Go (YTG): Projected performance until the end of the year.
+16.Year-to-Go (YTG): Projected performance until the end of the year.
 
-Benchmark: Standard to compare performance.
+17.Benchmark: Standard to compare performance.
 
-Customer-Consumer: Customer buys, consumer uses.
+18.Customer-Consumer: Customer buys, consumer uses.
 
-Retailer: Business selling goods to consumers.
+19.Retailer: Business selling goods to consumers.
 
-Direct Selling: Selling directly to customers, no middlemen.
+20.Direct Selling: Selling directly to customers, no middlemen.
 
-Distributor: Person or company that supplies goods to retailers.
+21.Distributor: Person or company that supplies goods to retailers.
 
-Brick-and-Mortar: Physical stores, not online.
+22.Brick-and-Mortar: Physical stores, not online.
 
-Fiscal Year: A 12-month period used for financial reporting.
+23.Fiscal Year: A 12-month period used for financial reporting.
